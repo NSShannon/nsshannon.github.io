@@ -1,5 +1,5 @@
 ---
-title:  Leetcode - Reverse Polish with STL
+title: Leetcode - Reverse Polish with STL
 mathjax: true
 layout: post
 date:   2024-01-29 00:00:30 +0300
